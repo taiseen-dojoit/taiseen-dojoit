@@ -98,7 +98,9 @@
 
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=taiseen-dojoit&show_icons=true&locale=en" alt="taiseen-dojoit" />
-    &nbsp;
+  </p>
+  
+  <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiseen-dojoit&" alt="taiseen-dojoit" />
   </p>
 
